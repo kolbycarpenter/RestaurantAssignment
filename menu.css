@@ -63,7 +63,7 @@ li a:hover {
 
 #bites {
     text-align: center;
-    color: rgb(2, 31, 13)
+    color: rgb(2, 31, 13);
     border-bottom: 10px dotted rgba(2, 31, 13, 0.247);
     font-size: 70px;
     font-family: 'Poiret One', cursive;
